@@ -6,7 +6,7 @@ To develop comprehensive credit card weekly dashboard that provides real-time in
 
 Steps involved :
 
-1. Import Data in MySQL server
+1. Import Data in SQL server
 2. Connecting SQL Database to Power BI Desktop
 3. Data Cleaning
 4. Data Processing
